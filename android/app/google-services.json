@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676973129663",
+    "project_id": "utsproject-dbef9",
+    "storage_bucket": "utsproject-dbef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676973129663:android:9e8865abe9818e61fbfb0a",
+        "android_client_info": {
+          "package_name": "com.example.uts_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANAwjiWCC9hjETK560bQzvyjX8nwrQfOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
